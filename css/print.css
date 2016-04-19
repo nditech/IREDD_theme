@@ -1,0 +1,30 @@
+.field-name-field-image {
+	margin-bottom:20px;
+}
+.field-name-field-image img {
+	border:1px solid lightgrey;
+}
+fieldset {
+	border:none;
+	padding-left:0;
+	margin-left:0;
+}
+fieldset legend {
+	font-weight:bold;
+	font-size:1.5em;
+	margin:0.83em 0;
+}
+.field-iframe-instance {
+	margin-bottom:-50px;
+}
+.views-field-field-attendance-grade .views-label {
+	font-weight:bold;
+	font-size:20px;
+}
+.views-field-field-attendance-grade .item-list ul li {
+	list-style:none;
+	float:left;
+	margin:10px;
+	font-weight:normal;
+	font-size:16px;
+}
