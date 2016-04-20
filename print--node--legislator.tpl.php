@@ -82,7 +82,6 @@
       <link rel='shortcut icon' href='<?php print theme_get_setting('favicon') ?>' type='image/x-icon' />
     <?php endif; ?>
     <?php print $css; ?>
-    <link type="text/css" rel="stylesheet" href="//dev-iredd.ndi.org/sites/all/themes/bootstrap_business/css/print.css" />
   </head>
   <body>
     <?php if (!empty($message)): ?>

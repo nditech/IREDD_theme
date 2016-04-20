@@ -8,6 +8,7 @@ stylesheets[all][] = css/style.css
 stylesheets[all][] = color/colors.css
 stylesheets[all][] = css/local.css
 stylesheets[all][] = css/custom.css
+stylesheets[all][] = css/print.css
 
 scripts[] = js/stacktable.js
 scripts[] = js/script.js
