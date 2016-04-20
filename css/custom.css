@@ -536,13 +536,13 @@ ul.quicktabs-tabs li.active a:after {
 @media (min-width: 768px) {
 	.node-type-legislator .page-title, .page-lawmakers .page-title {
         	padding-left:130px;
-		background:url('/sites/all/themes/bootstrap_business/images/building-sm.png') no-repeat 0 0;
+		background:url('../images/building-sm.png') no-repeat 0 0;
                 min-height:73px;
                 padding-top:17px;
 	}
 	.node-type-bill .page-title, .page-bills .page-title {
         	padding-left:85px;
-		background:url('/sites/all/themes/bootstrap_business/images/bills-sm.png') no-repeat 0 0;
+		background:url('../images/bills-sm.png') no-repeat 0 0;
         	min-height:73px;
         	padding-top:17px;
 	}
